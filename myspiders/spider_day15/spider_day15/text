@@ -1,0 +1,20 @@
+表名: 51.job
+    pname = //div//h1
+    address = //div//span[@class="lname"]
+    company = //div//p[@class="cname"]
+    welfare = //div//p[@class="t2"]
+    ptype = //div//p[@class="msg ltype"]
+    cp_size = //div//p[@class="msg ltype"][1]
+    tags = //div//p[@class="msg ltype"][2]
+    money = //div//strong
+    smoney =
+    emoney =
+    experience = //div//span[@class="sp4"][0]
+    person_num = //div//span[@class="sp4"][1]
+    time_pub = //div//span[@class="sp4"][2]
+    location = //div//div[@class="bmsg inbox"]//p[@class="fp"]
+    desc = //div//div[@class="bmsg job_msg inbox"]
+
+
+
+
